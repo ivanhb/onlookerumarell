@@ -6,3 +6,32 @@
 #services{
 	display: none;
 }
+
+#buildumarell_section{
+	min-height: 700px;
+}
+
+#tl_selectors_container{
+	width: 25%;
+	float: left;
+}
+
+#umarell_container{
+	width: 75%;
+	display: inline-block;
+}
+
+#aboutUs{
+	display: none;
+}
+
+.select-lt{
+	width: 30%;
+	margin-top: 20px;
+}
+
+.umarell-level{
+	position: absolute;
+	margin-right: 20px;
+	max-width: 400px;
+}
